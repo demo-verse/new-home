@@ -24,7 +24,7 @@ export const FooterSection = () => (
           <Anchor
             href="https://github.com/demo-verse"
             target="_blank"
-            color="white"
+            color="#A4A4A4"
             size="medium"
           >
             source code
@@ -41,7 +41,7 @@ export const FooterSection = () => (
           </Anchor>{" "}
        
         </Box>
-        <Box justify="center" direction="row">
+        <Box justify="center" direction="row" margin={"12px"}>
           <Text size="medium"> someone@demover.se </Text>
         </Box>
   
