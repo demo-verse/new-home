@@ -42,7 +42,7 @@ export const FooterSection = () => (
        
         </Box>
         <Box justify="center" direction="row" margin={"12px"}>
-          <Text size="medium"> someone@demover.se </Text>
+          <Text size="medium"> someone@demoVer.se </Text>
         </Box>
   
       </Box>

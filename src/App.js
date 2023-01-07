@@ -33,7 +33,7 @@ function App() {
             textAlign="center"
             margin={"20px"}
           >
-            Lets change the world, with one love ~ peacemaking is
+            Lets change the world, as one love ~ peacemaking is
             <Anchor
               href="https://www.aworldpeace.org/#our-right"
               target="_blank"
