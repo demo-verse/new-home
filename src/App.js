@@ -33,39 +33,16 @@ function App() {
             textAlign="center"
             margin={"20px"}
           >
-            Lets change the world, as one love ~ peacemaking is
+            Let's change the world, as one love <br></br> ~ peacemaking is
             <Anchor
               href="https://www.aworldpeace.org/#our-right"
               target="_blank"
             >
-             {" "} our right
+              {" "}
+              our right
             </Anchor>{" "}
             too.
           </Paragraph>
-          {/* <Paragraph textAlign="center">
-           Progressive declaration of diplomacy 
-           <br></br>
-           towards
-          </Paragraph> */}
-          {/* <Paragraph justify="center" textAlign="center">
-            "Everyone is free to be proactive, claim their equality, and use
-            their free will to participate in a World Peace treaty, and be a
-            legitimate co-signer of it, regardless of their entitlement, being
-            official or not."
-          </Paragraph>
-
-          <Paragraph justify="center" textAlign="center">
-            ^ This human right, as complementing the{" "}
-            <Anchor
-              weight={"bold"}
-              target="_blank"
-              href="https://www.ohchr.org/en/press-releases/2018/12/universal-declaration-human-rights-70-30-articles-30-articles-article-28"
-            >
-              Article 28
-            </Anchor>{" "}
-            of the Universal Declaration of Human Rights, shall be a canvas; on
-            which our kind is making Art of Peace, together.
-          </Paragraph> */}
 
           <Paragraph textAlign="center">
             <Anchor
@@ -77,6 +54,14 @@ function App() {
             </Anchor>{" "}
             <br></br>
             {"▲"}
+            <br></br>
+            <Anchor
+              href="https://www.canva.com/design/DAFbOfDwqmM/KPBwqaP60_E_2yr4qesHyQ/edit?utm_content=DAFbOfDwqmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+              target="_blank"
+              color="white"
+            >
+              Motivation Deck
+            </Anchor>{" "}
             <br></br>
             <Box direction="row">
               <Anchor
@@ -95,16 +80,6 @@ function App() {
                 Expressions of Demand
               </Anchor>
             </Box>
-            <br></br>
-            {/* <br></br> */}
-            <Anchor
-              href="https://circlesforimpact.org"
-              target="_blank"
-              color="#FE2EC8"
-            >
-              Circles for Impact
-            </Anchor>
-            <br></br>
             <br></br>
             <Anchor
               href="https://docs.google.com/document/d/1SxvZ5bGT0kCCuJJSDB9OrpPJ7hPvSFcBf0GahPlKjK8"
